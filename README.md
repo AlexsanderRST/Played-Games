@@ -134,3 +134,52 @@
 
 | Name |
 | --- |
+| Nioh |
+| Darksiders II |
+| Deus EX - Mankind Divided |
+| Stranded Deep |
+| The Outer Worlds |
+| Shadow of War |
+| Shenmue 3 |
+| Total War: WARHAMMER |
+| Saturnalia |
+| In Sound Mind |
+| The Callisto Protocol |
+| Pine |
+| Call of the Sea |
+| Gamedec |
+| Shadow of the Tomb Raider |
+| Death Stranding |
+| Mortal Shell |
+| TROY |
+| A Plague Tale: Innocence |
+| Fort Triumph |
+| PAYDAY 2 |
+| Submerged Hidden Depths |
+| Maneater |
+| GRIME |
+| Supraland |
+| ARK: Survival Evolved |
+| Hard West II |
+| Eternal Threads |
+| Redout |
+| Train Sim World 2 |
+| Empyrion - Galactic Survival |
+| Obduction |
+| Adios |
+| ABZU |
+| Assassin's Creed Origins |
+| Beyond Blue |
+| Bramble The Mountain King |
+| Call of the Wild: The Angler |
+| Cursed Golf |
+| CYGNI - All Guns Blazing |
+| DAEMON X MACHINA |
+| Dakar Desert Rally |
+| DARQ |
+| Deliver Us Mars |
+| Dishonored: Death of the Outsider |
+| En Garde! |
+| The Eternal Cylinder |
+| Eternights |
+| Everdream Valley |
