@@ -103,7 +103,10 @@
 
 | Name | Time (h) |
 | --- | --- |
+| YGO - Master Duel | 1460 |
+| YGO - Duel Links | 465 |
 | Project Zomboid | 241 |
+| Counter-Strike 2 | 121 |
 | Surviving Mars | 101 |
 | Loop Hero | 98 |
 | My Time at Portia | 85 |
@@ -116,6 +119,7 @@
 | Murder by Numbers | 20 |
 | Mindustry | 20 |
 | Thief Gold | 18 |
+| The Elder Scrolls Online | 16 |
 | TheoTown | 16 |
 | Deponia The Complete Journey | 14 |
 | Black Book | 14 |
