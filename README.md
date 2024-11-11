@@ -134,24 +134,6 @@
 
 | Name |
 | --- |
-| Nioh |
-| Darksiders II |
-| Deus EX - Mankind Divided |
-| Stranded Deep |
-| The Outer Worlds |
-| Shadow of War |
-| Shenmue 3 |
-| Total War: WARHAMMER |
-| Saturnalia |
-| In Sound Mind |
-| The Callisto Protocol |
-| Pine |
-| Call of the Sea |
-| Gamedec |
-| Shadow of the Tomb Raider |
-| Death Stranding |
-| Mortal Shell |
-| TROY |
 | A Plague Tale: Innocence |
 | Fort Triumph |
 | PAYDAY 2 |
@@ -171,15 +153,100 @@
 | Assassin's Creed Origins |
 | Beyond Blue |
 | Bramble The Mountain King |
+| Call of the Sea |
 | Call of the Wild: The Angler |
+| Call of the Wild: The Hunter |
 | Cursed Golf |
 | CYGNI - All Guns Blazing |
 | DAEMON X MACHINA |
 | Dakar Desert Rally |
 | DARQ |
+| Darksiders II |
+| Death Stranding |
 | Deliver Us Mars |
+| Deus EX - Mankind Divided |
 | Dishonored: Death of the Outsider |
 | En Garde! |
 | The Eternal Cylinder |
 | Eternights |
 | Everdream Valley |
+| Eximius: Seize the Frontline |
+| F.I.S.T.: Forged in Shadow Torch |
+| Farming Simulator 22 |
+| Gamedec |
+| Ghostwire Tokyo |
+| Gloomhaven |
+| Godfall |
+| GreedFall |
+| INDUSTRIA |
+| Insurmountable |
+| The Last Stand: Aftermath |
+| Lawn Mowing Simulator |
+| Eximius: Seize the Frontline |
+| F.I.S.T.: Forged in Shadow Torch |
+| Farming Simulator 22 |
+| Ghostwire Tokyo |
+| Gloomhaven |
+| Godfall |
+| GreedFall |
+| In Sound Mind |
+| INDUSTRIA |
+| Insurmountable |
+| The Last Stand: Aftermath |
+| Layers of Fear 2 |
+| Eximius: Seize the Frontline |
+| F.I.S.T.: Forged in Shadow Torch |
+| Farming Simulator 22 |
+| Ghostwire Tokyo |
+| Gloomhaven |
+| Godfall |
+| GreedFall |
+| INDUSTRIA |
+| Insurmountable |
+| The Last Stand: Aftermath |
+| LEGO Builder's Journey |
+| Eximius: Seize the Frontline |
+| F.I.S.T.: Forged in Shadow Torch |
+| Farming Simulator 22 |
+| Ghostwire Tokyo |
+| Gloomhaven |
+| Godfall |
+| GreedFall |
+| INDUSTRIA |
+| Insurmountable |
+| The Last Stand: Aftermath |
+| Marvel's Guardians of the Galaxy |
+| Marvel's Midnight Suns |
+| Midnight Ghost Hunt |
+| Model Builder |
+| MORDHAU |
+| Mortal Shell |
+| NBA 2K21 |
+| Nioh |
+| Outliver: Tribulation |
+| Pine |
+| Priest Simulator: Vampire Show |
+| RAGE 2 |
+| Recipe for Disaster |
+| Redout 2 |
+| Saturnalia |
+| Second Extinction |
+| Shadow of the Tomb Raider |
+| Shadow of War |
+| Shenmue 3 |
+| Showgunners |
+| Sniper Ghost Warrior Contracts |
+| Soulstice |
+| Spirit of the North |
+| STAR WARS: Squadrons |
+| Stranded Deep |
+| Tedem A Tale of Shadows |
+| The Callisto Protocol |
+| The Outer Worlds |
+| Tiny Tina's Assault on Dragon Keep |
+| Total War: WARHAMMER |
+| Total War: WARHAMMER II |
+| Trek to Yomi |
+| TROY |
+| Warhammer 40,000: Gladius |
+| Wildcat Gun Machine |
