@@ -2,137 +2,137 @@
 
 ## Finished
 
-| Name | Time (h) |
-| --- | --- |
-| Terraria | 281 |
-| Factorio | 269 |
-| Pathfinder Kingmaker | 236 |
-| Darkest Dungeon | 229 |
-| Fallout: New Vegas | 164 |
-| Fallout 3 | 149 |
-| Dragon Age: Inquisition | 128 |
-| Saints Row V | 106 |
-| GTA V | 100 |
-| Graveyard Keeper | 99 |
-| The Sims 4 | 96 |
-| The Long Dark | 82 |
-| Frostpunk | 62 |
-| Civilization VI | 61 |
-| XCOM 2 | 61 |
-| Wargroove | 61 |
-| Prison Architect | 60 |
-| Ring of Pain | 59 |
-| HITMAN | 53 |
-| Watch Dogs 2 | 50 |
-| The Dungeon Of Naheulbeuk | 48 |
-| Salt and Sanctuary | 47 |
-| Saints Row IV | 45 |
-| Breathedge | 42 |
-| Vampyr | 40 |
-| Hand of Fate 2 | 40 |
-| Bear and Breakfast | 39 |
-| Dying Light | 38 |
-| Jurassic World Evolution | 38 |
-| PREY | 37 |
-| Borderlands 3 | 34 |
-| Saints Row III | 34 |
-| Sim City 4 | 33 |
-| Iratus: Lord of the Dead | 32 |
-| Shadow of Mordor | 31 |
-| Blasphemous | 31 |
-| The Evil Within 2 | 31 |
-| Rise of the Tomb Raider | 26 |
-| Remnant: From the Ashes | 23 |
-| Moonlighter | 22 |
-| Mutant - Road to Eden | 22 |
-| Half-Life | 21 |
-| Horizon Chase Turbo | 21 |
-| Sheltered | 21 |
-| The Talos Principle | 20 |
-| Void Bastards | 19 |
-| The Evil Within | 17 |
-| Mafia: Definitive Edition | 17 |
-| Guacamelee! | 16 |
-| Far Cry 3 | 16 |
-| Guacamelee! 2 | 15 |
-| BioShock Remastered | 15 |
-| The Captain | 14 |
-| Where The Water Tastes Like Wine | 14 |
-| BioShock 2 Remastered | 14 |
-| Hell Pie | 14 |
-| Into The Breach | 14 |
-| Q.U.B.E. | 13 |
-| POSTAL 2 | 13 |
-| Dandara: Trials of Fear | 12 |
-| Plague Inc: Evolved | 12 |
-| The Wolf Among Us | 11 |
-| Rayman Origins | 11 |
-| Ghostrunner | 10 |
-| Human Resource Machine | 10 |
-| Wilmot's Warehouse | 9 |
-| Paradigm | 7 |
-| Minit | 7 |
-| Tomb Raider: Legend | 7 |
-| Maid of Sker | 7 |
-| Portal 2 | 7 |
-| Little Inferno | 6 |
-| Orwell: Keeping an Eye on You | 6 |
-| Slain: Back From Hell | 6 |
-| Severed Steel | 5 |
-| The Gunk | 5 |
-| GigaBash | 5 |
-| Evoland | 5 |
-| Injustice: Gods Among Us | 5 |
-| Lifeless Planet | 4 |
-| Sludge Life | 4 |
-| Stick it to the Man | 4 |
-| Hue | 4 |
-| Pikuniku | 4 |
-| Inside | 4 |
-| Ape Out | 3 |
-| SUPERHOT | 3 |
-| The Silent Age | 3 |
-| Brothers - A Tale of Two Sons | 3 |
-| Turnip Boy Commits Tax Evasion | 3 |
-| Tacoma | 2 |
-| Out of Line | 2 |
-| LumbearJack | 1 |
-| Space Expedition | 0.7 |
+| Name | Time (h) | Metascore |
+| --- | --- | --- |
+| Factorio | 351 | 90 |
+| Terraria | 281 | 81 |
+| Pathfinder Kingmaker | 236 | 73 |
+| Darkest Dungeon | 229 | 84 |
+| Fallout: New Vegas | 164 | 84 |
+| Fallout 3 | 149 | 93 |
+| Dragon Age: Inquisition | 128 | 85 |
+| Saints Row V | 106 | 61 |
+| GTA V | 100 | 97 |
+| Graveyard Keeper | 99 | 69 |
+| The Sims 4 | 96 | 70 |
+| The Long Dark | 82 | 77 |
+| Frostpunk | 62 | 84 |
+| Civilization VI | 61 | 88 |
+| XCOM 2 | 61 | 88 |
+| Wargroove | 61 | 84 |
+| Prison Architect | 60 | 83 |
+| Ring of Pain | 59 | 74 |
+| HITMAN | 53 | 84 |
+| Watch Dogs 2 | 50 | 82 |
+| The Dungeon Of Naheulbeuk | 48 | 72 |
+| Salt and Sanctuary | 47 | 84 |
+| Saints Row IV | 45 | 86 |
+| Breathedge | 42 | 71 |
+| Vampyr | 40 | 70 |
+| Hand of Fate 2 | 40 | 80 |
+| Bear and Breakfast | 39 | 72 |
+| Dying Light | 38 | 74 |
+| Jurassic World Evolution | 38 | 69 |
+| PREY | 37 | 79 |
+| Borderlands 3 | 34 | 81 |
+| Saints Row: The Third | 34 | 84 |
+| Sim City 4 | 33 | 84 |
+| Iratus: Lord of the Dead | 32 | 78 |
+| Shadow of Mordor | 31 | 84 |
+| Blasphemous | 31 | 77 |
+| The Evil Within 2 | 31 | 76 |
+| Rise of the Tomb Raider | 26 | 86 |
+| Remnant: From the Ashes | 23 | 78 |
+| Moonlighter | 22 | 81 |
+| Mutant Year Zero: Road to Eden | 22 | 78 |
+| Half-Life | 21 | 96 |
+| Horizon Chase Turbo | 21 | 82 |
+| Sheltered | 21 | 70 |
+| The Talos Principle | 20 | 85 |
+| Void Bastards | 19 | 81 |
+| The Evil Within | 17 | 75 |
+| Mafia: Definitive Edition | 17 | 78 |
+| Guacamelee! | 16 | 84 |
+| Far Cry 3 | 16 | 88 |
+| Guacamelee! 2 | 15 | 83 |
+| BioShock Remastered | 15 | 96 |
+| The Captain | 14 | - |
+| Where The Water Tastes Like Wine | 14 | 74 |
+| BioShock 2 Remastered | 14 | 88 |
+| Hell Pie | 14 | 78 |
+| Into The Breach | 14 | 90 |
+| Q.U.B.E. | 13 | 69 |
+| POSTAL 2 | 13 | 50 |
+| Dandara: Trials of Fear | 12 | 73 |
+| Plague Inc: Evolved | 12 | 80 |
+| The Wolf Among Us | 11 | 80 |
+| Rayman Origins | 11 | 87 |
+| Ghostrunner | 10 | 81 |
+| Human Resource Machine | 10 | 78 |
+| Wilmot's Warehouse | 9 | 85 |
+| Paradigm | 7 | 85 |
+| Minit | 7 | 81 |
+| Tomb Raider: Legend | 7 | 80 |
+| Maid of Sker | 7 | 64 |
+| Portal 2 | 7 | 95 |
+| Little Inferno | 6 | 79 |
+| Orwell: Keeping an Eye on You | 6 | 77 |
+| Slain: Back From Hell | 6 | 68 |
+| Severed Steel | 5 | 73 |
+| The Gunk | 5 | 70 |
+| GigaBash | 5 | 73 |
+| Evoland | 5 | 66 |
+| Injustice: Gods Among Us | 5 | 81 |
+| Lifeless Planet | 4 | 59 |
+| Sludge Life | 4 | 73 |
+| Stick it to the Man | 4 | 79 |
+| Hue | 4 | 77 |
+| Pikuniku | 4 | 76 |
+| Inside | 4 | 93 |
+| Ape Out | 3 | 83 |
+| SUPERHOT | 3 | 82 |
+| The Silent Age | 3 | 84 |
+| Brothers - A Tale of Two Sons | 3 | 86 |
+| Turnip Boy Commits Tax Evasion | 3 | 74 |
+| Tacoma | 2 | 76 |
+| Out of Line | 2 | 69 |
+| LumbearJack | 1 | - |
+| Space Expedition | 0.7 | - |
 
 ## Played (+10 hours)
 
-| Name | Time (h) |
-| --- | --- |
-| YGO - Master Duel | 1460 |
-| YGO - Duel Links | 465 |
-| Project Zomboid | 241 |
-| Counter-Strike 2 | 121 |
-| Surviving Mars | 101 |
-| Loop Hero | 98 |
-| My Time at Portia | 85 |
-| Geneforge 1: Mutagen | 38 |
-| Infinifactory | 35 |
-| RollerCoaster Tycoon 3 | 31 |
-| Neon Abyss | 26 |
-| EARTHLOCK | 21 |
-| City of Gangsters | 21 |
-| Murder by Numbers | 20 |
-| Mindustry | 20 |
-| Thief Gold | 18 |
-| The Elder Scrolls Online | 16 |
-| TheoTown | 16 |
-| Deponia The Complete Journey | 14 |
-| Black Book | 14 |
-| Thief | 13 |
-| Torchlight II | 12 |
-| Kerbal Space Program | 10 |
-| Tropico 5 | 10 |
-| Guild of Dungeoneering | 10 |
-| Hellpoint | 10 |
+| Name | Time (h) | Metascore |
+| --- | --- | --- |
+| YGO - Master Duel | 1460 | 80 |
+| YGO - Duel Links | 465 | 80 |
+| Project Zomboid | 241 | - |
+| Counter-Strike 2 | 121 | 82 |
+| Surviving Mars | 101 | 76 |
+| Loop Hero | 98 | 82 |
+| My Time at Portia | 85 | 73 |
+| Geneforge 1: Mutagen | 38 | - |
+| Infinifactory | 35 | 70 |
+| RollerCoaster Tycoon 3 | 31 | 81 |
+| Neon Abyss | 26 | 74 |
+| EARTHLOCK | 21 | 73 |
+| City of Gangsters | 21 | 67 |
+| Murder by Numbers | 20 | 79 |
+| Mindustry | 20 | - |
+| Thief Gold | 18 | - |
+| The Elder Scrolls Online | 16 | 71 |
+| TheoTown | 16 | - |
+| Deponia The Complete Journey | 14 | - |
+| Black Book | 14 | 75 |
+| Thief | 13 | 67 |
+| Torchlight II | 12 | 88 |
+| Kerbal Space Program | 10 | 88 |
+| Tropico 5 | 10 | 75 |
+| Guild of Dungeoneering | 10 | 72 |
+| Hellpoint | 10 | 64 |
 
 ## Heavy
 
-| Name | METASCORE |
+| Name | Metascore |
 | --- | --- |
 | Nioh | 88 |
 | Total War: WARHAMMER II | 87 |
@@ -215,8 +215,8 @@
 | Empyrion - Galactic Survival | - |
 | Midnight Ghost Hunt | - |
 | Model Builder | - |
-| Train Sim World 2 | - |
 | Outliver: Tribulation | - |
 | Priest Simulator: Vampire Show | - |
 | Second Extinction | - |
 | Tiny Tina's Assault on Dragon Keep | - |
+| Train Sim World 2 | - |
