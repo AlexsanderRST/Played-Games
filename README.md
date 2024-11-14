@@ -100,13 +100,13 @@
 | LumbearJack | 1 | - |
 | Space Expedition | 0.7 | - |
 
-## Played (+10 hours)
+## Played (+5 hours)
 
 | Name | Time (h) | Metascore |
 | --- | --- | --- |
-| YGO - Master Duel | 1460 | 80 |
-| YGO - Duel Links | 465 | 80 |
-| Project Zomboid | 241 | - |
+| YGO - Master Duel | 1661 | 80 |
+| YGO - Duel Links | 504 | 80 |
+| Project Zomboid | 246 | - |
 | Counter-Strike 2 | 121 | 82 |
 | Surviving Mars | 101 | 76 |
 | Loop Hero | 98 | 82 |
@@ -128,8 +128,18 @@
 | Torchlight II | 12 | 88 |
 | Kerbal Space Program | 10 | 88 |
 | Tropico 5 | 10 | 75 |
+| Weird West | 10 | 76 |
 | Guild of Dungeoneering | 10 | 72 |
 | Hellpoint | 10 | 64 |
+| Sail Forth | 9 | 77 |
+| Hyper Light Difter | 8 | 84 |
+| Darksiders: Warmastered Edition | 7 | 77 |
+| Mothergunship | 7 | 72 |
+| Relicta | 7 | 74 |
+| Just Die Already | 7 | 63 |
+| Pillars of Eternity | 6 | 89 |
+| Arcade Paradise | 6 | 73 |
+| Pathway | 5 | 68 |
 
 ## Heavy
 
