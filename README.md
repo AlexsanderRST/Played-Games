@@ -34,6 +34,7 @@
 | Dying Light | 38 | 74 |
 | Jurassic World Evolution | 38 | 69 |
 | PREY | 37 | 79 |
+| Coromon | 36 | 73 |
 | Borderlands 3 | 34 | 81 |
 | Saints Row: The Third | 34 | 84 |
 | Sim City 4 | 33 | 84 |
@@ -43,6 +44,7 @@
 | The Evil Within 2 | 31 | 76 |
 | Rise of the Tomb Raider | 26 | 86 |
 | Remnant: From the Ashes | 23 | 78 |
+| Mafia: Definitive Edition | 22 | 78 |
 | Moonlighter | 22 | 81 |
 | Mutant Year Zero: Road to Eden | 22 | 78 |
 | Half-Life | 21 | 96 |
@@ -51,7 +53,6 @@
 | The Talos Principle | 20 | 85 |
 | Void Bastards | 19 | 81 |
 | The Evil Within | 17 | 75 |
-| Mafia: Definitive Edition | 17 | 78 |
 | Guacamelee! | 16 | 84 |
 | Far Cry 3 | 16 | 88 |
 | Guacamelee! 2 | 15 | 83 |
